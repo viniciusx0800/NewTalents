@@ -1,0 +1,15 @@
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.deps.json
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.runtimeconfig.json
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.dll
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.pdb
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfoInputs.cache
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfo.cs
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.csproj.CoreCompileInputs.cache
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.sourcelink.json
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.dll
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/refint/NewTalents.dll
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.pdb
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.genruntimeconfig.cache
+/home/vinicius/Projetos/Estudos/NewTalents/NewTalents/obj/Debug/net8.0/ref/NewTalents.dll
